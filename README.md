@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huzhongyang)]()
+![](https://raw.githubusercontent.com/xlzy520/xlzy520/main/assets/github-contribution-grid-snake.svg)
