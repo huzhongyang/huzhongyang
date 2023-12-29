@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huzhongyang)]()
+![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=huzhongyang&show_icons=true)
 ![](https://raw.githubusercontent.com/huzhongyang/huzhongyang/main/assets/github-contribution-grid-snake.svg)
